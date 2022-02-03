@@ -3,7 +3,7 @@
 //  Chapter2
 //
 //  Created by Ethan Ennis on 2/2/22.
-//
+// CSC 416
 
 import SwiftUI
 
